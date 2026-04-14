@@ -4,7 +4,7 @@
 
 Specializing in developing and deploying end-to-end AI/ML systems and custom solutions. Proficient in agent and orchestration frameworks.
 
-[LinkedIn](https://www.linkedin.com/in/vansh-soni-7b918524a/) · [X / Twitter](https://x.com/_VanshSoni_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vansh-soni-7b918524a/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/_VanshSoni_) 
 
 ---
 
