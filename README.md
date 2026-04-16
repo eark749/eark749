@@ -29,9 +29,3 @@ TensorFlow · Keras · scikit-learn · Pandas · NumPy · Matplotlib
 Git · GitHub · Docker · Notion · Jira
 
 ---
-
-## GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=eark749&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=eark749&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
