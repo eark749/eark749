@@ -1,5 +1,9 @@
 # Vansh Soni
+<div align="center">
 
+  <img src="https://i.imgur.com/1ZvVkDc.gif" alt="banner gif" />
+
+</div>
 **Applied AI Engineer**
 
 Specializing in developing and deploying end-to-end AI/ML systems and custom solutions. Proficient in agent and orchestration frameworks.
