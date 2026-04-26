@@ -3,7 +3,7 @@
 
 <div align="center">
 
-  <img src="https://i.imgur.com/1ZvVkDc.gif" alt="banner gif" />
+  <img src="https://pub-791252e542b34b9b85d72f368c5c362f.r2.dev/ChatGPT%20Image%20Apr%2026%2C%202026%2C%2011_45_52%20PM.png" alt="banner gif" />
 
 </div>
 
