@@ -1,15 +1,12 @@
 # Vansh Soni
 **Applied AI Engineer**
 
-<div align="center">
-
-  <img src="https://pub-791252e542b34b9b85d72f368c5c362f.r2.dev/just_animate_the_video_nothin%20(1).gif" alt="banner gif" />
-
-</div>
+![banner](https://pub-791252e542b34b9b85d72f368c5c362f.r2.dev/just_animate_the_video_nothin%20(1).gif)
 
 Specializing in developing and deploying end-to-end AI/ML systems and custom solutions. Proficient in agent and orchestration frameworks.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vansh-soni-7b918524a/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/_VanshSoni_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-soni-7b918524a/)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_VanshSoni_)
 
 ---
 
@@ -32,5 +29,3 @@ TensorFlow · Keras · scikit-learn · Pandas · NumPy · Matplotlib
 
 **Tools**
 Git · GitHub · Docker · Notion · Jira
-
----
