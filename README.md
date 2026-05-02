@@ -21,7 +21,7 @@ AWS · Google Cloud · Docker · Nginx · Apache · Gunicorn
 **Frameworks & Libraries:**
 FastAPI · OpenCV · RabbitMQ · CUDA
 
-**Databases**
+**Databases:**
 MySQL · Microsoft SQL Server · Amazon DynamoDB · Apache Cassandra · Redis · Neo4j
 
 **Machine Learning**
