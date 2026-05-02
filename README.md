@@ -12,7 +12,7 @@ Specializing in developing and deploying end-to-end AI/ML systems and custom sol
 
 ## Tech Stack
 
-**Languages**
+**Languages :-**
 Python · C++ · Rust · R · Typescript · SQL · CQL
 
 **Cloud & Infrastructure**
