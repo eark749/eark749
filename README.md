@@ -15,7 +15,7 @@ Specializing in developing and deploying end-to-end AI/ML systems and custom sol
 **Languages:**
 Python · C++ · Rust · R · Typescript · SQL · CQL
 
-**Cloud & Infrastructure**
+**Cloud & Infrastructure:**
 AWS · Google Cloud · Docker · Nginx · Apache · Gunicorn
 
 **Frameworks & Libraries**
