@@ -1,5 +1,5 @@
 # Vansh Soni
-**Applied AI Engineer**
+** Software Engineer | Dev Ops **
 
 ![banner](https://pub-791252e542b34b9b85d72f368c5c362f.r2.dev/just_animate_the_video_nothin.gif)
 
