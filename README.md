@@ -24,7 +24,7 @@ FastAPI · OpenCV · RabbitMQ · CUDA
 **Databases:**
 MySQL · Microsoft SQL Server · Amazon DynamoDB · Apache Cassandra · Redis · Neo4j
 
-**Machine Learning**
+**Machine Learning:**
 TensorFlow · Keras · scikit-learn · Pandas · NumPy · Matplotlib
 
 **Tools**
