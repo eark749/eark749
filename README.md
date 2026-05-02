@@ -18,7 +18,7 @@ Python · C++ · Rust · R · Typescript · SQL · CQL
 **Cloud & Infrastructure:**
 AWS · Google Cloud · Docker · Nginx · Apache · Gunicorn
 
-**Frameworks & Libraries**
+**Frameworks & Libraries:**
 FastAPI · OpenCV · RabbitMQ · CUDA
 
 **Databases**
