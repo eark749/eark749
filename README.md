@@ -27,5 +27,5 @@ MySQL · Microsoft SQL Server · Amazon DynamoDB · Apache Cassandra · Redis ·
 **Machine Learning:**
 TensorFlow · Keras · scikit-learn · Pandas · NumPy · Matplotlib
 
-**Tools**
+**Tools:**
 Git · GitHub · Docker · Notion · Jira
