@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://pub-791252e542b34b9b85d72f368c5c362f.r2.dev/just_animate_the_video_nothin%20(1).gif" width="100%" alt="banner"/>
+<img src="https://pub-791252e542b34b9b85d72f368c5c362f.r2.dev/samurai.gif" width="100%" alt="banner"/>
 
 <br/>
 
