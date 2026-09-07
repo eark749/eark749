@@ -1,68 +1,60 @@
+```
+██╗   ██╗ █████╗ ███╗   ██╗███████╗██╗  ██╗    ███████╗ ██████╗ ███╗   ██╗██╗
+██║   ██║██╔══██╗████╗  ██║██╔════╝██║  ██║    ██╔════╝██╔═══██╗████╗  ██║██║
+██║   ██║███████║██╔██╗ ██║███████╗███████║    ███████╗██║   ██║██╔██╗ ██║██║
+╚██╗ ██╔╝██╔══██║██║╚██╗██║╚════██║██╔══██║    ╚════██║██║   ██║██║╚██╗██║██║
+ ╚████╔╝ ██║  ██║██║ ╚████║███████║██║  ██║    ███████║╚██████╔╝██║ ╚████║██║
+  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝    ╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝
+
+        SOFTWARE ENGINEER  //  AI ENGINEER  //  ROBOTICS ENGINEER (OTW)
+```
+
 <div align="center">
 
-<img src="https://pub-791252e542b34b9b85d72f368c5c362f.r2.dev/samurai.gif" width="100%" alt="banner"/>
-
-<br/>
-
-# Vansh Soni
-
-`Software Engineer` · `AI Engineer` · `Robotics Engineer (OTW)`
-
-Building end-to-end AI/ML systems with the same principle a swordsmith holds —
-**strip away everything that isn't essential.**
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-soni-7b918524a/)
-[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/_VanshSoni_)
-[![YouTube](https://img.shields.io/badge/-YouTube-000000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@earkdev)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=cloudflare&logoColor=white)](https://vansh-soni.pages.dev/)
+[Portfolio](https://vansh-soni.pages.dev/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/vansh-soni-7b918524a/) &nbsp;·&nbsp; [X](https://x.com/_VanshSoni_) &nbsp;·&nbsp; [YouTube](https://www.youtube.com/@earkdev)
 
 </div>
 
 <br/>
 
-### 一 — About
+```
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬◆▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+```
 
-Specializing in developing and deploying end-to-end AI/ML systems and custom solutions. Proficient in agent and orchestration frameworks — I build the infrastructure that lets autonomous systems actually ship.
+## 侍 — about
 
-<br/>
+```
+$ whoami
 
-### 二 — Stack
+specializing in end-to-end AI/ML systems and custom solutions.
+proficient in agent and orchestration frameworks.
+i build the infrastructure that lets autonomous systems actually ship.
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Languages**
-Python · C++ · Rust · R · TypeScript · SQL · CQL
-
-**Machine Learning**
-TensorFlow · Keras · scikit-learn · Pandas · NumPy · Matplotlib
-
-**Frameworks**
-FastAPI · OpenCV · RabbitMQ · CUDA
-
-</td>
-<td valign="top" width="50%">
-
-**Cloud & Infra**
-AWS · Google Cloud · Docker · Nginx · Apache · Gunicorn
-
-**Databases**
-MySQL · SQL Server · DynamoDB · Cassandra · Redis · Neo4j
-
-**Tools**
-Git · GitHub · Notion · Jira
-
-</td>
-</tr>
-</table>
+doctrine: 一刀入魂 — put your whole soul into one strike.
+no wasted motion. the code that ships is the code that matters.
+```
 
 <br/>
 
-### 三 — Elsewhere
+## 刀 — stack
+
+```
+LANGUAGES     Python · C++ · Rust · R · TypeScript · SQL · CQL
+ML / AI       TensorFlow · Keras · scikit-learn · Pandas · NumPy · Matplotlib
+BACKEND       FastAPI · OpenCV · RabbitMQ · CUDA
+DATA          MySQL · SQL Server · DynamoDB · Cassandra · Redis · Neo4j
+INFRA         AWS · GCP · Docker · Nginx · Apache · Gunicorn
+TOOLS         Git · GitHub · Notion · Jira
+```
+
+<br/>
+
+```
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬◆▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+```
 
 <div align="center">
 
-[Portfolio](https://vansh-soni.pages.dev/) · [LinkedIn](https://www.linkedin.com/in/vansh-soni-7b918524a/) · [X](https://x.com/_VanshSoni_) · [YouTube](https://www.youtube.com/@earkdev)
+<sub>0101110 01001111 01010101 00100000 01001010 01010101 01010011 01010100 00100000 01010010 01000101 01000001 01000100 00100000 01010100 01001000 01001001 01010011</sub>
 
 </div>
